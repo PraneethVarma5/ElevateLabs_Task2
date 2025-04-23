@@ -1,52 +1,32 @@
 # Task-2
 # Data Visualization and Storytelling Task
 
-This repository contains the files for the Data Visualization and Storytelling task.
-
-## Task Description
-
-The objective of this task was to create compelling data visualizations to tell a story using a dataset.
-
-Tools used: Power BI
-
-## Dataset
-
-I used the "Sales and Marketing" dataset from Kaggle
-This dataset includes information on sales transactions, marketing campaigns, and potentially product and customer details, enabling analysis of sales performance and marketing effectiveness.
-
-## Deliverables
-
-The primary deliverable is a Power BI dashboard visualizing key sales and marketing metrics.
-
-* **Power BI Dashboard:** The dashboard provides an overview of sales performance, marketing campaign effectiveness, and product insights.
-
-    * It includes visualizations such as:
-        * Sales Revenue over Time (Line Chart)
-        * Sales Revenue by Marketing Campaign (Bar Chart)
-        * Marketing Spend by Campaign (Bar Chart)
-        * Relationship between Marketing Spend and Sales (Scatter Plot)
-        * Sales Revenue by Product Category (Bar Chart)
-        * Key Performance Indicators (KPIs) like Total Sales, Marketing Spend, and ROI.
-
-## Key Insights
-
-The dashboard is designed to provide insights into the following:
-
-* Overall sales trends and performance.
-* The effectiveness of different marketing campaigns in generating sales.
-* Sales performance of various product categories.
-* The return on investment (ROI) of marketing efforts.
-
-## Approach
-
-The following principles were followed in designing the dashboard, as suggested in the task guidelines: [cite: 2]
-
-* **Right Chart Selection:** Appropriate chart types were chosen to represent the data effectively.
-* **Clutter Reduction:** The dashboard was designed to minimize clutter and maximize clarity.
-* **Color Usage:** A consistent and restrained color palette was used.
-* **Key Takeaways:** The dashboard highlights key metrics and insights.
-* **Contextual Information:** Charts are labeled and provide context to the data.
-* **Business Focus:** The analysis focuses on providing business insights rather than just displaying data.
+This project analyzes a synthetic sales dataset modeled after real-world retail chains like Walmart. The dashboard was built using Power BI (visuals shown below) to showcase weekly trends, store performance, department-level insights, and the effect of holidays.
 
 
-![dashboard](https://github.com/user-attachments/assets/63fdd19b-e50f-4beb-a50f-23b4c9330896)
+##  Key Insights
+
+1. **Sales Trends Over Time**  
+   - Sales show consistency with seasonal peaks.
+   - High traffic during certain months hints at promotional periods.
+
+2. **Top Performing Stores**  
+   - Store 3 and Store 1 lead in sales volume.
+   - These may be located in high footfall areas or large urban centers.
+
+3. **Sales by Department**  
+   - Electronics and Grocery dominate revenue generation.
+   - Focused marketing can help uplift lower-performing departments like Toys and Clothing.
+
+4. **Holiday Impact on Sales**  
+   - Holidays significantly boost sales.
+   - Strategic promotions during holidays yield high ROI.
+
+##  Dashboard Preview
+![Sales_Dashboard_Summary](https://github.com/user-attachments/assets/0c399182-0e75-43e8-af14-317871a45276)
+
+
+##  Tools Used
+
+- Power BI 
+
