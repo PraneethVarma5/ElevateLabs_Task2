@@ -1,3 +1,4 @@
+# Task-2
 # Data Visualization and Storytelling Task
 
 This repository contains the files for the Data Visualization and Storytelling task.
@@ -47,3 +48,5 @@ The following principles were followed in designing the dashboard, as suggested 
 * **Contextual Information:** Charts are labeled and provide context to the data.
 * **Business Focus:** The analysis focuses on providing business insights rather than just displaying data.
 
+
+![dashboard](https://github.com/user-attachments/assets/63fdd19b-e50f-4beb-a50f-23b4c9330896)
